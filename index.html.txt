@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Happy Birthday</title>
+  <title>Happy Birthday Sakhi</title>
   <style>
     body {
       margin: 0;
@@ -67,7 +67,7 @@
 </head>
 <body>
   <h1>🎉 Happy Birthday 🎉</h1>
-  <h2>Her Name 💖</h2>
+  <h2>Sakhi 💖</h2>
 
   <canvas id="confetti"></canvas>
 
